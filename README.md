@@ -35,6 +35,6 @@ Just drag and drop shortcuts in a Palisade to add it in. If you want to customiz
 
 ## Techs used
 
-Palisades was made using .NET 6 and WPF. It uses Material Design In XAML for some part of the UI and Sentry to automagically report issues you could encounters.
+Palisades was made using .NET 6 and WPF. It uses Material Design In XAML for some part of the UI.
 
 Palisade is greatly by [Twometer's NoFences](https://github.com/Twometer/NoFences), which was inspired by [Stardock's Fences](https://www.stardock.com/products/fences/). I didn't want to pay 11€ but I also wanted to train on WPF.
